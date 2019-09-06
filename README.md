@@ -2,6 +2,7 @@
 
 Toda quarta feira, 21h.
 
-Em breve link publico
+Link para a live é divulgada no canal
 
-https://t.me/souenzzo
+https://t.me/souenzzo_live
+
