@@ -1,0 +1,6 @@
+{:deps   {:aliases [:dev]}
+ :nrepl  {:port 9001}
+ :builds {:simple-node-fetch {:target    :node-library
+                              :exports-var souenzzo.simple-node-fetch/ok
+                              :devtools         {:after-load souenzzo.simple-node-fetch/after-load}
+                              :output-to "target/simple-node-fetch.js"}}}
